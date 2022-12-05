@@ -8,7 +8,7 @@
 
 ​                                                                             Schematic diagram of the VFPS strategy.
 
-![数据集](https://github.com/jsLi1/PSegNet/blob/master/image/%E6%95%B0%E6%8D%AE%E9%9B%86.jpg)
+![数据集](https://github.com/jsLi1/PSegNet/blob/master/image/dataset.jpg)
 
 ​                                                 Demonstration of some point clouds from our dataset.
 
